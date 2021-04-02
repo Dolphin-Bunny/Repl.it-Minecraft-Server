@@ -21,7 +21,7 @@ def home():
 Address: <code>{address}</code><br>
 Version: <code>{os.getenv('mc_version')}</code><br><br>
 RAM: <code>{psutil.virtual_memory().percent}%</code><br>
-Used Disk Space: <code>{math.trunc((get_size(os.getcwd())*0.000001)*10)/10}MB / 500MB</code><br>
+Used Disk Space: <code>{math.trunc((get_size(os.getcwd())*0.000001)*10)/10}MB / {500 if not os.getenv('hacker_plan')=='true' else 1000}MB</code><br>
 <code>{mcapi['server']['name']}</code>
 '''
 
