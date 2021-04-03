@@ -4,7 +4,7 @@ Still a work in progress, and will probably get more features later
 This is a tutorial on how to (hopefully) run a Minecraft server off of repl.it / replit.com. This is not really a good way to run a Minecraft server, but you can do it and it does run somewhat ok, even without the hacker plan.
 
 ## You will need
-1. An account on repl.it
+1. An account on repl.it / replit.com
 2. A ngrok account
 
 ## Steps
