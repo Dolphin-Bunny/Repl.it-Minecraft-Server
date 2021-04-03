@@ -9,10 +9,10 @@ This is a tutorial on how to (hopefully) run a Minecraft server off of repl.it /
 
 ## Steps
 1. Clone this repository as a new repl
-    a. On the home screen click new repl
-    b. Click "import from Github"
-    c. Paste the url of this repository in the box
-    d. Click the blue button at the bottom
+    a. On the home screen click new repl<br>
+    b. Click "import from Github"<br>
+    c. Paste the url of this repository in the box<br>
+    d. Click the blue button at the bottom<br>
 2. Click "done" on the right
 3. Go to your ngrok dashboard
 4. Copy your token
@@ -36,3 +36,5 @@ There isn't really anything you can do for this that I know of except move to a 
 #### Server stopping (after repl.it page is closed)
 You can try creating a https monitor on uptimerobot for the webpage of the server, or just leave the repl.it page open.
 
+#### Server stopping (with repl.it page open)
+There are several causes for this, but you can generally just start the server abck up again.
