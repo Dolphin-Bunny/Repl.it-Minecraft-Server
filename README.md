@@ -5,6 +5,7 @@ This is a tutorial on how to (hopefully) run a Minecraft server off of repl.it /
 
 ## You will need
 1. An account on repl.it
+2. A ngrok account
 
 ## Steps
 1. Clone this repository as a new repl
