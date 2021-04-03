@@ -26,9 +26,12 @@ This is a tutorial on how to (hopefully) run a Minecraft server off of repl.it /
 12. Note: your server may still be starting when the server address becomes visible. If this is the case, wait until your server has finished starting.
 
 ## Troubleshooting
-#### Conenction timing out
+#### Connection timing out
 Make sure the server address you have used is correct.<br>
 If it is, try restarting the server.
+
+#### "Disconnected" when joining server
+Restart the server.
 
 #### Server running out of memory
 There isn't really anything you can do for this that I know of except move to a different hosting provider.
