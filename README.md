@@ -30,5 +30,5 @@ This is a tutorial on how to (hopefully) run a Minecraft server off of repl.it /
 Make sure the server address you have used is correct.<br>
 If it is, try restarting the server.
 
-#### Server running ouit of memory
+#### Server running out of memory
 There isn't really anything you can do for this that I know of except move to a different hosting provider.
