@@ -8,7 +8,7 @@ This is a tutorial on how to (hopefully) run a Minecraft server off of repl.it /
 2. A ngrok account
 
 ## Steps
-1. Clone this repository as a new repl
+1. Clone this repository as a new repl<br>
     a. On the home screen click new repl<br>
     b. Click "import from Github"<br>
     c. Paste the url of this repository in the box<br>
