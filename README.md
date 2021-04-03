@@ -37,4 +37,8 @@ There isn't really anything you can do for this that I know of except move to a 
 You can try creating a https monitor on uptimerobot for the webpage of the server, or just leave the repl.it page open.
 
 #### Server stopping (with repl.it page open)
-There are several causes for this, but you can generally just start the server abck up again.
+There are several causes for this, but you can generally just start the server back up again.
+
+## Advanced usage
+1. You can change the .env file entry called "hacker_plan" to "true" if you have the hacker plan on repl.it, but it is not required.
+2. You can change the "mc_version" .env file entry to the version you are using for your server. This will not change the version of server you are using, it is 
