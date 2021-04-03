@@ -13,12 +13,10 @@ This is a tutorial on how to (hopefully) run a Minecraft server off of repl.it /
     b. Click "import from Github"
     c. Paste the url of this repository in the box
     d. Click the blue button at the bottom
-2. In the box to the right, leave language as bash, and paste this into the "run" box
-    `make`
-3. Click "done" on the right
-4. Go to your ngrok dashboard
-5. Copy your token
-6. Go to the file called `.env`
-7. Paste your ngrok token onto the end of line 6
-8. You're all done! Click "run" to start your server. After a little while, you should see a box with the server IP address in it on the right.
-9. Note: the server address changes each time you start your server
+2. Click "done" on the right
+3. Go to your ngrok dashboard
+4. Copy your token
+5. Go to the file called `.env`
+6. Paste your ngrok token onto the end of line 6
+7. You're all done! Click "run" to start your server. After a little while, you should see a box with the server IP address in it on the right.
+8. Note: the server address changes each time you start your server
