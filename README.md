@@ -34,4 +34,5 @@ If it is, try restarting the server.
 There isn't really anything you can do for this that I know of except move to a different hosting provider.
 
 #### Server stopping (after repl.it page is closed)
-You can try creating a https monitor on uptimerobot for the webpage of the server.
+You can try creating a https monitor on uptimerobot for the webpage of the server, or just leave the repl.it page open.
+
