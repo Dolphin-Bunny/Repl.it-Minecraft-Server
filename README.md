@@ -44,4 +44,4 @@ There are several causes for this, but you can generally just start the server b
 
 ## Advanced usage
 1. You can change the .env file entry called "hacker_plan" to "true" if you have the hacker plan on repl.it, but it is not required.
-2. You can change the "mc_version" .env file entry to the version you are using for your server. This will not change the version of server you are using, it is 
+2. You can change the "mc_version" .env file entry to the version you are using for your server. This will not change the version of server you are using, it is just displayed on the webpage.
